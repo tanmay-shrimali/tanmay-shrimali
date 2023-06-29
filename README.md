@@ -1,18 +1,15 @@
-<img align="right" alt="Coding" width="350" src="https://img.freepik.com/free-vector/hacker-activity-concept_23-2148540041.jpg?1&w=1060&t=st=1688035747~exp=1688036347~hmac=be1770e328eb199d92bbe5d393dcf8b3cc0524a9f29ab33db29185c5fe33c5f5">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=500&color=F7F7F7&width=435&lines=HI%F0%9F%91%8B%2C+I'm+Tanmay+Shrimali)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=500&color=F7F7F7&width=435&lines=HI%F0%9F%91%8B%2C+I'm+Tanmay+Shrimali)](https://git.io/typing-svg)<br>
 👾 I am a Cyber Security Engineer and Digital Forensics Investigator.<br>
 🤖 I love to collaborate on Web 3.0 security projects.<br>
 ⛓️ Currently, I am learning about blockchain, Solidity, and smart contracts.<br>
 🐧 I can help you with Linux and AI Tools Prompting.<br>
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tanmay_shrimali_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/tanmay-shrimali/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/TanmayShrimali_/) 
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
@@ -45,12 +42,11 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
 
-## 📆 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tanmay-shrimali&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tanmay-shrimali&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay-shrimali&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📆 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=tanmay-shrimali&theme=chartreuse-dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=tanmay-shrimali&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tanmay-shrimali&icon=8&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
