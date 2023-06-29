@@ -18,11 +18,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay-shrimali&layout=compact&theme=github_dark)
 
 <a href="#">
-  <img height=160 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tanmay-shrimali&theme=github-dark-blue"/>
+  <img height=180 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tanmay-shrimali&theme=github-dark-blue"/>
 </a>
 
 <a href="#">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay-shrimali&theme=github_dark&show_icons=true&rank_icon=github"/>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay-shrimali&theme=github_dark&show_icons=true&rank_icon=github"/>
 </a>
 
 ---
