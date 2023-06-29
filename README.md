@@ -1,4 +1,4 @@
-[![MasterHead]([your image link](https://media.licdn.com/dms/image/D5616AQF72nnhoueBWA/profile-displaybackgroundimage-shrink_350_1400/0/1684968006110?e=1693440000&v=beta&t=SRAa1rJ9TDWM5cOhgy2mHKN0jFxGL79sxJr3ksSC8Ps))](https://github.com/tanmay-shrimali/)
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQF72nnhoueBWA/profile-displaybackgroundimage-shrink_350_1400/0/1684968006110?e=1693440000&v=beta&t=SRAa1rJ9TDWM5cOhgy2mHKN0jFxGL79sxJr3ksSC8Ps)](https://github.com/tanmay-shrimali)
 
 <img align="right" alt="Coding" width="400" src="[add your link here](https://img.freepik.com/free-vector/hacker-activity-concept_23-2148540041.jpg?1&w=1060&t=st=1688034962~exp=1688035562~hmac=9ebd3c349eb963a0337ce1322c8e161c47044722873291405b83a5ddb6361a5d)">
 
