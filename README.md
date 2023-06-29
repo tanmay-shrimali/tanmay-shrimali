@@ -4,12 +4,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=500&color=F7F7F7&width=435&lines=HI%F0%9F%91%8B%2C+I'm+Tanmay+Shrimali)](https://git.io/typing-svg)
 
-### 👾 I am a Cyber Security Engineer and Digital Forensics Investigator.<br>
-### 🤖 I love to collaborate on Web 3.0 security projects.<br>
-### ⛓️ Currently, I am learning about blockchain, Solidity, and smart contracts.<br>
-### 🐧 I can help you with Linux and AI Tools<br>
+👾 I am a Cyber Security Engineer and Digital Forensics Investigator.<br>
+🤖 I love to collaborate on Web 3.0 security projects.<br>
+⛓️ Currently, I am learning about blockchain, Solidity, and smart contracts.<br>
+🐧 I can help you with Linux and AI Tools<br>
 
-Fun Fact : [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=18&duration=3000&pause=200&color=00F789&width=435&lines=Average+time+to+identify+a+data+breach+is+280+days.;Early+detection+is+crucial.)](https://git.io/typing-svg)
+### Fun Fact : 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=18&duration=3000&pause=200&color=00F789&width=435&lines=Average+time+to+identify+a+data+breach+is+280+days.;Early+detection+is+crucial.)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tanmay_shrimali_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/tanmay-shrimali/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/TanmayShrimali_/) 
