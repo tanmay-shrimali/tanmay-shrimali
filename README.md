@@ -5,7 +5,7 @@
 # 💫 About Me:
 👾 I am a Cyber Security Engineer and Digital Forensics Investigator.<br>🤖 I usually create cyber security related projects and love to collaborate on Web 3.0 projects.<br>⛓️ Currently, I am learning about blockchain, Solidity, and smart contracts.<br>🐧 I can help you with Linux and web projects.<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&duration=3000&pause=2000&color=0AF7AD&width=435&lines=Fun+Fact+%3A+The+average+time+to+identify+a+data+breach+is+280+days.+Early+detection+is+crucial.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&duration=3000&pause=2000&color=0AF7AD&width=435&lines=Fun+Fact+%3A;Average+time+to+identify+a+data+breach+is+280+days.;Early+detection+is+crucial.)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tanmay_shrimali_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/tanmay-shrimali/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/TanmayShrimali_/) 
