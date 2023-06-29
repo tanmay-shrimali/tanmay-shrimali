@@ -1,9 +1,9 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQF72nnhoueBWA/profile-displaybackgroundimage-shrink_350_1400/0/1684968006110?e=1693440000&v=beta&t=SRAa1rJ9TDWM5cOhgy2mHKN0jFxGL79sxJr3ksSC8Ps)](https://github.com/tanmay-shrimali)
 
-<img align="right" alt="Coding" width="400" src="[add your link here](https://img.freepik.com/free-vector/hacker-activity-concept_23-2148540041.jpg?1&w=1060&t=st=1688034962~exp=1688035562~hmac=9ebd3c349eb963a0337ce1322c8e161c47044722873291405b83a5ddb6361a5d)">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-activity-concept_23-2148540041.jpg?1&w=1060&t=st=1688035747~exp=1688036347~hmac=be1770e328eb199d92bbe5d393dcf8b3cc0524a9f29ab33db29185c5fe33c5f5">
 
 # 💫 About Me:
-👾 I am a Cyber Security Engineer and Digital Forensics Investigator.<br>🤖 I usually create security projects and love to collaborate on Web 3.0 security projects.<br>⛓️ Currently, I am learning about blockchain, Solidity, and smart contracts.<br>🐧 I can help you with Linux and web projects.<br>🥲 Fun Fact : The average time to identify a data breach is 280 days. Early detection is crucial.
+👾 I am a Cyber Security Engineer and Digital Forensics Investigator.<br>🤖 I usually create cyber security related projects and love to collaborate on Web 3.0 projects.<br>⛓️ Currently, I am learning about blockchain, Solidity, and smart contracts.<br>🐧 I can help you with Linux and web projects.<br>🥲 Fun Fact : The average time to identify a data breach is 280 days. Early detection is crucial.
 
 
 ## 🌐 Socials:
