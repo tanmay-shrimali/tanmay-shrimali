@@ -1,5 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQF72nnhoueBWA/profile-displaybackgroundimage-shrink_350_1400/0/1684968006110?e=1693440000&v=beta&t=SRAa1rJ9TDWM5cOhgy2mHKN0jFxGL79sxJr3ksSC8Ps)](https://github.com/tanmay-shrimali)
-
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-activity-concept_23-2148540041.jpg?1&w=1060&t=st=1688035747~exp=1688036347~hmac=be1770e328eb199d92bbe5d393dcf8b3cc0524a9f29ab33db29185c5fe33c5f5">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=500&color=F7F7F7&width=435&lines=HI%F0%9F%91%8B%2C+I'm+Tanmay+Shrimali)](https://git.io/typing-svg)
