@@ -15,7 +15,14 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 
 ### 📆 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=tanmay-shrimali&theme=chartreuse-dark&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay-shrimali&layout=compact&theme=github_dark)
+
+<a href="#">
+  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tanmay-shrimali&theme=github-dark-blue"/>
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay-shrimali&theme=github_dark&show_icons=true&rank_icon=github"/>
+</a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tanmay-shrimali&icon=8&color=5)](https://visitcount.itsvg.in)
