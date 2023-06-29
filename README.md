@@ -25,5 +25,5 @@
 </a>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tanmay-shrimali&icon=8&color=5)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=tanmay-shrimali&icon=8&color=12)
 
