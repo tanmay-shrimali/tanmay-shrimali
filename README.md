@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=500&color=F7F7F7&width=435&lines=HI%F0%9F%91%8B%2C+I'm+Tanmay+Shrimali)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&duration=2000&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'am+Tanmay+Shrimali)](https://git.io/typing-svg)<br>
 👾 I am a Cyber Security Engineer and Digital Forensics Investigator.<br>
 🤖 I love to collaborate on Web 3.0 security projects.<br>
 ⛓️ Currently, I am learning about blockchain, Solidity, and smart contracts.<br>
