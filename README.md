@@ -4,7 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=500&color=F7F7F7&width=435&lines=HI%F0%9F%91%8B%2C+I'm+Tanmay+Shrimali)](https://git.io/typing-svg)
 
-👾 I am a Cyber Security Engineer and Digital Forensics Investigator.<br>🤖 I usually create cyber security related projects and love to collaborate on Web 3.0 projects.<br>⛓️ Currently, I am learning about blockchain, Solidity, and smart contracts.<br>🐧 I can help you with Linux and web projects.<br>
+👾 I am a Cyber Security Engineer and Digital Forensics Investigator.<br>
+🤖 I love to collaborate on Web 3.0 security projects.<br>
+⛓️ Currently, I am learning about blockchain, Solidity, and smart contracts.<br>
+🐧 I can help you with Linux and AI Tools<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=18&duration=3000&pause=200&color=00F789&width=435&lines=Average+time+to+identify+a+data+breach+is+280+days.;Early+detection+is+crucial.)](https://git.io/typing-svg)
 
