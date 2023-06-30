@@ -1,4 +1,5 @@
-![Background Cover](https://github.com/tanmay-shrimali/tanmay-shrimali/assets/119653072/b3352c28-1fab-4ef6-b9ae-262b2af22408)
+<img align="top" width="100%" src="https://github.com/tanmay-shrimali/tanmay-shrimali/assets/119653072/b3352c28-1fab-4ef6-b9ae-262b2af22408"> <br><br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&duration=2000&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'am+Tanmay+Shrimali)](https://git.io/typing-svg)<br>
 👾 I am a Cyber Security Engineer and Digital Forensics Investigator. <br>
 🤖 I love to collaborate on Web 3.0 security projects.<br>
